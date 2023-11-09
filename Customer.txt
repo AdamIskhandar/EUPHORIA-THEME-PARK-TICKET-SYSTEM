@@ -1,0 +1,100 @@
+CST001;Adam Iskhandar bin Muhaslee;0;2
+CST002;Ahmad bin Ismail;0;2
+CST003;Siti Aminah binti Rahim;0;6
+CST004;Khairul Azmi bin Hamid;0;1
+CST005;Nurul Huda binti Abdullah;0;2
+CST006;Mohd Fazli bin Mohamad;0;6
+CST007;Noraini binti Hussein;0;2
+CST008;Zulhairi bin Ramli;0;3
+CST009;Nor Azizah binti Yusof;0;2
+CST010;Wan Faridah binti Hassan;0;6
+CST011;Amirul Hakim bin Abdul Rahman;0;3
+CST012;Norashikin binti Mohd Noor;0;3
+CST013;Hafizah binti Ismail;0;2
+CST014;Shahrul Nizam bin Ali;0;1
+CST015;Farah Syahirah binti Roslan;0;5
+CST016;Azrul Hafiz bin Mustafa;0;3
+CST017;Nurul Ain binti Mohd Azmi;0;2
+CST018;Kamaluddin bin Mahmood;0;1
+CST019;Siti Zainab binti Zakaria;0;8
+CST020;Faisal bin Bakar;0;4
+CST022;Norul Syazwani binti Kamal;0;2
+CST022;Khairul Naim bin Said;0;4
+CST023;Siti Mariam binti Omar;0;1
+CST024;Mohd Zulfadli bin Razak;0;9
+CST025;Aisyah binti Azizan;0;3
+CST026;Amirul bin Ng;0;4
+CST027;Syazwani binti Lim;0;2
+CST028;Hafiz bin Chan;0;5
+CST029;Nurul binti Teh;0;3
+CST030;Azhar bin Wong;0;1
+CST031;Fatin binti Goh;0;4
+CST032;Aiman bin Tan;0;2
+CST033;Farahin binti Ali;0;7
+CST034;Haziq bin Lee;0;3
+CST035;Nurul Syuhada binti Ibrahim;0;5
+CST036;Syed Ahmad bin Rahman;0;1
+CST037;Siti Aisyah binti Ooi;0;4
+CST038;Razif bin Heng;0;2
+CST039;Nurul Azizah binti Chong;0;6
+CST040;Liyana binti Wong;0;3
+CST041;Iskandar bin Ali;0;5
+CST042;Aminah binti Tan;0;1
+CST043;Kamal bin Zainal;0;4
+CST044;Sharifah binti Lim;0;2
+CST045;Anwar bin Rahim;0;6
+CST046;Nurul Syafiq bin Yap;0;3
+CST047;Faisal bin Abdullah;0;5
+CST048;Amir bin Chan;0;1
+CST049;Nurul binti Teh;0;4
+CST050;Azhar bin Ng;0;2
+CST051;Fatin binti Lim;0;6
+CST052;Aiman bin Chan;0;3
+CST053;Farahin binti Teh;0;5
+CST054;Haziq bin Wong;0;1
+CST055;Nurul Syuhada binti Goh;0;4
+CST056;Syed Ahmad bin Tan;0;2
+CST057;Siti Aisyah binti Ali;0;9
+CST058;Razif bin Lee;0;3
+CST059;Nurul Azizah binti Ooi;0;5
+CST060;Liyana binti Rahman;0;1
+CST061;Iskandar bin Chong;0;4
+CST062;Aminah binti Wong;0;2
+CST063;Kamal bin Ali;0;6
+CST064;Sharifah binti Tan;0;3
+CST065;Anwar bin Chan;0;5
+CST066;Nurul Syafiq bin Teh;0;1
+CST067;Faisal bin Lim;0;4
+CST068;Amir bin Zainal;0;2
+CST069;Nurul binti Heng;0;7
+CST070;Azhar bin Chong;0;3
+CST071;Fatin binti Wong;0;5
+CST072;Aiman bin Rahman;0;1
+CST073;Farahin binti Ooi;0;4
+CST074;Haziq bin Lee;0;2
+CST075;Nurul Syuhada binti Goh;0;8
+CST076;Syafiq bin Abdullah;0;5
+CST077;Nurul binti Tan;0;2
+CST078;Amir bin Lim;0;3
+CST079;Liyana binti Chan;0;7
+CST080;Amirah binti Tan;0;4
+CST081;Hafiz bin Ibrahim;0;1
+CST082;Siti Azizah binti Ali;0;2
+CST083;Ahmad bin Lim;0;6
+CST084;Nurul binti Wong;0;3
+CST085;Faizal bin Chan;0;4
+CST086;Farah binti Teh;0;5
+CST087;Syed Abdul bin Rahman;0;1
+CST088;Aisyah binti Goh;0;2
+CST089;Iskandar bin Abdullah;0;3
+CST090;Liyana binti Tan;0;4
+CST091;Razif bin Heng;0;5
+CST092;Mira binti Chong;0;9
+CST093;Aminah binti Ng;0;1
+CST094;Kamal bin Ooi;0;2
+CST095;Sharifah binti Lee;0;3
+CST096;Anwar bin Tan;0;4
+CST097;Nurul Syafiq binti Zainal;0;5
+CST098;Haziq bin Lim;0;11
+CST099;Nurul Aziz binti Rahim;0;1
+CST100;Faisal bin Yap;0;2

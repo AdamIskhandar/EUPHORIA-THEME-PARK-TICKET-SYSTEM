@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Receipt
+comment0.text=\r\n\r\n\ @author\ ADAM\ ISKHANDAR\r\n
+comment1.params=ticketInfo\ customerInfo
+comment1.target=Receipt(TicketInformation,\ CustomerInformation)
+comment2.params=ticketInfo\ customerInfo
+comment2.target=void\ initComponents(TicketInformation,\ CustomerInformation)
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ jButton1ActionPerformed(java.awt.event.ActionEvent)
+numComments=5

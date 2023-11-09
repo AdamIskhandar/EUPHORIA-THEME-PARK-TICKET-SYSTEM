@@ -1,0 +1,100 @@
+EPH001;Dragon Fury Coaster;25;DFC
+EPH002;Enchanted River Rapids;15;ERR
+EPH003;Space Explorer 360;10;SE
+EPH004;Jungle Safari Adventure;18;JSA
+EPH005;Pirate Plunge Water Slide;13;PPW
+EPH006;Time Traveler Quest;8;TTQ
+EPH007;Pirate Plunge Water Slide;13;PPW
+EPH008;Space Explorer 360;10;SE
+EPH009;Enchanted River Rapids;15;ERR
+EPH010;Jungle Safari Adventure;18;JSA
+EPH011;Pirate Plunge Water Slide;13;PPW
+EPH012;Dragon Fury Coaster;25;DFC
+EPH013;Time Traveler Quest;8;TTQ
+EPH014;Jungle Safari Adventure;18;JSA
+EPH015;Dragon Fury Coaster;25;DFC
+EPH016;Enchanted River Rapids;15;ERR
+EPH017;Pirate Plunge Water Slide;13;PPW
+EPH018;Space Explorer 360;10;SE
+EPH019;Jungle Safari Adventure;18;JSA
+EPH020;Dragon Fury Coaster;25;DFC
+EPH021;Pirate Plunge Water Slide;13;PPW
+EPH022;Enchanted River Rapids;15;ERR
+EPH023;Time Traveler Quest;8;TTQ
+EPH024;Pirate Plunge Water Slide;13;PPW
+EPH025;Enchanted River Rapids;15;ERR
+EPH026;Dragon's Fury Coaster;25;DFC
+EPH027;Enchanted River Rapids;15;ERR
+EPH028;Space Explorer 360;10;SE
+EPH029;Jungle Safari Adventure;18;JSA
+EPH030;Pirate's Plunge Water Slide;13;PPW
+EPH031;Time Traveler's Quest;8;TTQ
+EPH032;Dragon's Fury Coaster;25;DFC
+EPH033;Enchanted River Rapids;15;ERR
+EPH034;Space Explorer 360;10;SE
+EPH035;Jungle Safari Adventure;18;JSA
+EPH036;Pirate's Plunge Water Slide;13;PPW
+EPH037;Time Traveler's Quest;8;TTQ
+EPH038;Dragon's Fury Coaster;25;DFC
+EPH039;Enchanted River Rapids;15;ERR
+EPH040;Space Explorer 360;10;SE
+EPH041;Jungle Safari Adventure;18;JSA
+EPH042;Pirate's Plunge Water Slide;13;PPW
+EPH043;Time Traveler's Quest;8;TTQ
+EPH044;Dragon's Fury Coaster;25;DFC
+EPH045;Enchanted River Rapids;15;ERR
+EPH046;Space Explorer 360;10;SE
+EPH047;Jungle Safari Adventure;18;JSA
+EPH048;Pirate's Plunge Water Slide;13;PPW
+EPH049;Time Traveler's Quest;8;TTQ
+EPH050;Dragon's Fury Coaster;25;DFC
+EPH051;Enchanted River Rapids;15;ERR
+EPH052;Space Explorer 360;10;SE
+EPH053;Jungle Safari Adventure;18;JSA
+EPH054;Pirate's Plunge Water Slide;13;PPW
+EPH055;Time Traveler's Quest;8;TTQ
+EPH056;Dragon's Fury Coaster;25;DFC
+EPH057;Enchanted River Rapids;15;ERR
+EPH058;Space Explorer 360;10;SE
+EPH059;Jungle Safari Adventure;18;JSA
+EPH060;Pirate's Plunge Water Slide;13;PPW
+EPH061;Time Traveler's Quest;8;TTQ
+EPH062;Dragon's Fury Coaster;25;DFC
+EPH063;Enchanted River Rapids;15;ERR
+EPH064;Space Explorer 360;10;SE
+EPH065;Jungle Safari Adventure;18;JSA
+EPH066;Pirate's Plunge Water Slide;13;PPW
+EPH067;Time Traveler's Quest;8;TTQ
+EPH068;Dragon's Fury Coaster;25;DFC
+EPH069;Enchanted River Rapids;15;ERR
+EPH070;Space Explorer 360;10;SE
+EPH071;Jungle Safari Adventure;18;JSA
+EPH072;Pirate's Plunge Water Slide;13;PPW
+EPH073;Time Traveler's Quest;8;TTQ
+EPH074;Dragon's Fury Coaster;25;DFC
+EPH075;Enchanted River Rapids;15;ERR
+EPH076;Dragon's Fury Coaster;25;DFC
+EPH077;Enchanted River Rapids;15;ERR
+EPH078;Space Explorer 360;10;SE
+EPH079;Jungle Safari Adventure;18;JSA
+EPH080;Pirate's Plunge Water Slide;13;PPW
+EPH081;Time Traveler's Quest;8;TTQ
+EPH082;Dragon's Fury Coaster;25;DFC
+EPH083;Enchanted River Rapids;15;ERR
+EPH084;Space Explorer 360;10;SE
+EPH085;Jungle Safari Adventure;18;JSA
+EPH086;Pirate's Plunge Water Slide;13;PPW
+EPH087;Time Traveler's Quest;8;TTQ
+EPH088;Dragon's Fury Coaster;25;DFC
+EPH089;Enchanted River Rapids;15;ERR
+EPH090;Space Explorer 360;10;SE
+EPH091;Jungle Safari Adventure;18;JSA
+EPH092;Pirate's Plunge Water Slide;13;PPW
+EPH093;Time Traveler's Quest;8;TTQ
+EPH094;Dragon's Fury Coaster;25;DFC
+EPH095;Enchanted River Rapids;15;ERR
+EPH096;Space Explorer 360;10;SE
+EPH097;Jungle Safari Adventure;18;JSA
+EPH098;Pirate's Plunge Water Slide;13;PPW
+EPH099;Time Traveler's Quest;8;TTQ
+EPH100;Dragon's Fury Coaster;25;DFC

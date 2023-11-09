@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=TicketInformation
+comment1.params=
+comment1.target=TicketInformation()
+comment10.params=
+comment10.target=double\ getTicketPrice()
+comment11.params=
+comment11.target=java.lang.String\ getTicketCode()
+comment12.params=
+comment12.target=java.util.Date\ getPurchaseDate()
+comment2.params=ticketId\ rideName\ ticketPrice\ ticketCode
+comment2.target=TicketInformation(java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+comment3.params=ticketId
+comment3.target=void\ setTicketId(java.lang.String)
+comment4.params=rideName
+comment4.target=void\ setRideName(java.lang.String)
+comment5.params=ticketPrice
+comment5.target=void\ setTicketPrice(double)
+comment6.params=ticketCode
+comment6.target=void\ setTicketCode(java.lang.String)
+comment7.params=purchaseDate
+comment7.target=void\ setPurchaseDate(java.util.Date)
+comment8.params=
+comment8.target=java.lang.String\ getTicketId()
+comment9.params=
+comment9.target=java.lang.String\ getRideName()
+numComments=13
